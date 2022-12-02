@@ -1,1 +1,4 @@
-# Cross-plat_programming-Vol.6-2--
+﻿# Dossanov Adil, IS-402
+**Работа с графикой в Python**
+
+![Screenshot](screenshot.png)
